@@ -1,0 +1,6 @@
+com.forcastflow.myapplication.test.app-core-1.5.0-0 C:\Users\brgat\.gradle\caches\transforms-3\c773155d28b3ff4d874c87b2f158df48\transformed\core-1.5.0\res
+com.forcastflow.myapplication.test.app-annotation-experimental-1.4.0-1 C:\Users\brgat\.gradle\caches\transforms-3\ed5f83a0c60dc464d04aa79205395bcf\transformed\annotation-experimental-1.4.0\res
+com.forcastflow.myapplication.test.app-androidTest-2 C:\Users\brgat\AndroidStudioProjects\MyApplication2\app\build\generated\res\resValues\androidTest\debug
+com.forcastflow.myapplication.test.app-mergeDebugAndroidTestResources-3 C:\Users\brgat\AndroidStudioProjects\MyApplication2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.forcastflow.myapplication.test.app-mergeDebugAndroidTestResources-4 C:\Users\brgat\AndroidStudioProjects\MyApplication2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.forcastflow.myapplication.test.app-merged_res-5 C:\Users\brgat\AndroidStudioProjects\MyApplication2\app\build\intermediates\merged_res\debugAndroidTest

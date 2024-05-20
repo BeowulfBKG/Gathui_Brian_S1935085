@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginEnd="30dp"
+                    android:src="@drawable/hamburger_icon"
+                    android:contentDescription="@string/hamburgermenue" />
+
+                <Space
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="66dp"
+                    android:layout_height="59dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="25dp"
+                    android:layout_marginEnd="25dp"
+                    android:src="@drawable/forcastflow_transparent_icon"
+                    android:contentDescription="@string/logoicon" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="8dp">
+
+                <ImageButton
+                    android:id="@+id/imageButton3"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.15"
+                    android:background="@android:color/transparent"
+                    android:contentDescription="@string/leftnav"
+                    app:srcCompat="@drawable/left" />
+
+                <TextView
+                    android:id="@+id/PageNav"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.2"
+                    android:gravity="center"
+                    android:layout_gravity="center_vertical"
+                    android:text="@string/select_for_next_page"
+                    android:textColor="@color/navigation_text"
+                    tools:ignore="RtlCompat" />
+
+                <ImageButton
+                    android:id="@+id/imageButton4"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.15"
+                    android:background="@android:color/transparent"
+                    app:srcCompat="@drawable/right"
+                    android:contentDescription="@string/rightnav"
+                    android:layout_width="0dp" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="40dp"
+                android:contentDescription="@string/weathericon"
+                android:src="@drawable/cloudy_sunny" />
+
+            <TextView
+                android:id="@+id/Location"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:text="@string/glasgow_scotland"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/DayandDate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="@string/friday_may_3rd_2024"
+                android:textAlignment="center"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/Temperature"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/Degree"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="24dp"
+                android:background="@drawable/gradient_background"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:weightSum="3"
+                    tools:layout_editor_absoluteY="21dp"
+                    android:baselineAligned="false">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/WindSpeed"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/wind_speed"
+                            android:textColor="@color/white"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/WindSpeedValue"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/wind_speed_value"
+                            android:textColor="@color/white"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/Humidity"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/humidity"
+                            android:textColor="@color/white"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/HumidityValue"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/textview"
+                            android:textColor="@color/white"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/Pressure"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/pressure"
+                            android:textColor="@color/white"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/PressureValue"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/pressure_value"
+                            android:textColor="@color/white"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/Day_Date1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="24sp"
+                    android:layout_marginStart="30dp"
+                    android:textStyle="bold"
+                    android:text="@string/Day_DateValue"
+                    android:textColor="@color/black" />
+
+
+                <TextView
+                    android:id="@+id/ThreeDayForcastLink"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="31dp"
+                    android:text="@string/three_day_forcast_link"
+                    android:textColor="@color/navigation_text"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="24dp"
+                android:background="@drawable/alternate_gradient_background"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <!-- Row 1 -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:weightSum="3"
+                        android:baselineAligned="false">
+
+                        <!-- Column 1 -->
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            tools:ignore="NestedWeights">
+
+                            <TextView
+                                android:id="@+id/ThreeDayMinimumTemperature"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/min_temp"
+                                android:textColor="@color/primary_text"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/ThreeDayMinimumTemperatureValue"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/MinimumTemperatureValue"
+                                android:textColor="@color/primary_interact_color"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                        <!-- Column 2 -->
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/ThreeDayMaximumTemeprature"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/max_temp"
+                                android:textColor="@color/primary_text"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/ThreeDayMaximumTemperatureValue"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/MaximumTemperatureValue"
+                                android:textColor="@color/primary_interact_color"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                        <!-- Column 3 -->
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/WindDirection"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/wind_direction"
+                                android:textColor="@color/primary_text"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/WindDirectionValue"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/WindDirectionValue"
+                                android:textColor="@color/primary_interact_color"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <!-- Row 2 -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:weightSum="3"
+                        android:baselineAligned="false">
+
+                        <!-- Column 1 -->
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical"
+                            tools:ignore="NestedWeights">
+
+                            <TextView
+                                android:id="@+id/ThreeDayWind_Speed"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/three_day_wind_speed"
+                                android:textColor="@color/primary_text"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/ThreeDayWIndSpeedValue"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/three_day_wind_speed_value"
+                                android:textColor="@color/primary_interact_color"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                        <!-- Column 2 -->
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/ThreeDayHumidity"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/three_day_humidity"
+                                android:textColor="@color/primary_text"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/ThreeDayHumidityValue"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/three_day_humidity_value"
+                                android:textColor="@color/primary_interact_color"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                        <!-- Column 3 -->
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/ThreeDayPressure"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/thee_day_pressure"
+                                android:textColor="@color/primary_text"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/ThreeDayPressureValue"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/three_day_pressure_value"
+                                android:textColor="@color/primary_interact_color"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <!-- Row 3 -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:weightSum="3"
+                        android:baselineAligned="false">
+
+                        <!-- Column 1 -->
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/ThreeDayVisibility"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/three_day_visibility"
+                                android:textColor="@color/primary_text"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/ThreeDayVisibilityValue"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/three_day_visibility_value"
+                                android:textColor="@color/primary_interact_color"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                        <!-- Column 2 -->
+
+                        <!-- Column 3 -->
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/ThreeDayUVRisk"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/three_day_uv_risk"
+                                android:textColor="@color/primary_text"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/ThreeDayUVRiskValue"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/three_day_uv_risk_value"
+                                android:textColor="@color/primary_interact_color"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/ThreeDayPollution"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/three_day_pollution"
+                                android:textColor="@color/primary_text"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/ThreeDayPollutionValue"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/three_day_pollution_value"
+                                android:textColor="@color/primary_interact_color"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <com.google.android.gms.maps.MapView
+                android:id="@+id/mapView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

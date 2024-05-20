@@ -1,0 +1,446 @@
+[
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable_latest_weather_details_panel.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable\\latest_weather_details_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-hdpi_rainy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-hdpi\\rainy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-ldpi_storm.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-ldpi\\storm.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xhdpi_windy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xhdpi\\windy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xhdpi_snowy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xhdpi\\snowy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-hdpi_back.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-mdpi_small_white_circle.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-mdpi\\small_white_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxxhdpi_cloudy_sunny.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxxhdpi\\cloudy_sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxxhdpi_back.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxhdpi_cloudy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxhdpi\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-hdpi_humidity.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-hdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-mdpi_snowy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-mdpi\\snowy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-mdpi_windy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-mdpi\\windy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-ldpi_humidity.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-ldpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable_rounded_corners.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable\\rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxxhdpi_rainy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxxhdpi\\rainy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-hdpi_cloudy_sunny.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-hdpi\\cloudy_sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxhdpi_cloudy_sunny.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxhdpi\\cloudy_sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-hdpi_wind.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-hdpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxxhdpi_storm.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxxhdpi\\storm.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\layout_glasgow_england_main.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\layout\\glasgow_england_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\layout_dhaka_bangladesh.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\layout\\dhaka_bangladesh.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxhdpi_sunny.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxhdpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-hdpi_snowy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-hdpi\\snowy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xhdpi_back.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-mdpi_storm.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-mdpi\\storm.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxhdpi_rain.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxhdpi\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-hdpi_rain.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-hdpi\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-ldpi_large_white_circle.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-ldpi\\large_white_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxhdpi_rainy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxhdpi\\rainy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\layout_port_louis_mauritius_main.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\layout\\port_louis_mauritius_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxhdpi_humidity.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxhdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-mdpi_rain.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-mdpi\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxxhdpi_small_white_circle.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxxhdpi\\small_white_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-ldpi_small_white_circle.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-ldpi\\small_white_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xhdpi_small_white_circle.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xhdpi\\small_white_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-ldpi_snowy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-ldpi\\snowy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-hdpi_windy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-hdpi\\windy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable_hamburger_icon.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable\\hamburger_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-ldpi_windy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-ldpi\\windy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-hdpi_cloudy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-hdpi\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\layout_new_york_city_usa_main.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\layout\\new_york_city_usa_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-mdpi_large_white_circle.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-mdpi\\large_white_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-mdpi_sunny.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-mdpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xhdpi_humidity.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xhdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-ldpi_sunny.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-ldpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xhdpi_large_white_circle.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xhdpi\\large_white_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxxhdpi_large_white_circle.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxxhdpi\\large_white_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-hdpi_storm.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-hdpi\\storm.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxxhdpi_snowy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxxhdpi\\snowy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\layout_london_england_main.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\layout\\london_england_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxhdpi_small_white_circle.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxhdpi\\small_white_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-ldpi_rainy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-ldpi\\rainy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-mdpi_rainy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-mdpi\\rainy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxhdpi_back.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxhdpi_large_white_circle.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxhdpi\\large_white_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxhdpi_windy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxhdpi\\windy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-hdpi_large_white_circle.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-hdpi\\large_white_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-ldpi_wind.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-ldpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-hdpi_sunny.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-hdpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xhdpi_rain.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xhdpi\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxhdpi_storm.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxhdpi\\storm.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxxhdpi_windy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxxhdpi\\windy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxxhdpi_humidity.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxxhdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-ldpi_back.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable_forcastflow_transparent_icon.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable\\forcastflow_transparent_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-mdpi_wind.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-mdpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\layout_glasgow_england_threedays.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\layout\\glasgow_england_threedays.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable_right.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxhdpi_snowy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxhdpi\\snowy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-mdpi_back.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxhdpi_wind.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxhdpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxxhdpi_cloudy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxxhdpi\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxxhdpi_sunny.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxxhdpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\layout_muscat_oman_main.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\layout\\muscat_oman_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-ldpi_cloudy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-ldpi\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxxhdpi_wind.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxxhdpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xhdpi_cloudy_sunny.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xhdpi\\cloudy_sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xxxhdpi_rain.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xxxhdpi\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xhdpi_rainy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xhdpi\\rainy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable_left.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xhdpi_storm.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xhdpi\\storm.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xhdpi_sunny.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xhdpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-mdpi_humidity.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-mdpi\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.forcastflow.myapplication.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.forcastflow.myapplication.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-mdpi_cloudy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-mdpi\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable_alternate_gradient_background.xml.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable\\alternate_gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-mdpi_cloudy_sunny.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-mdpi\\cloudy_sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-hdpi_small_white_circle.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-hdpi\\small_white_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xhdpi_cloudy.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xhdpi\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-ldpi_cloudy_sunny.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-ldpi\\cloudy_sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-xhdpi_wind.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-xhdpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-merged_res-34:\\drawable-ldpi_rain.png.flat",
+        "source": "C:\\Users\\brgat\\.gradle\\daemon\\8.2\\com.forcastflow.myapplication.app-main-36:\\drawable-ldpi\\rain.png"
+    }
+]

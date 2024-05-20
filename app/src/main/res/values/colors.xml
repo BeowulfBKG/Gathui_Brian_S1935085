@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Background Colors  -->
+    <color name="background_color">#FFFFFF</color>
+
+    <!-- Text Colors  -->
+    <color name="navigation_text">#B3B3B3</color>
+    <color name="primary_text">#000000</color>
+    <color name="white_text">#FFFFFF</color>
+
+    <!-- Primary Colors  -->
+    <color name="primary_interact_color">#FF9016</color>
+
+    <!-- Secondary Colors  -->
+    <color name="secondary_interact_color">#1479A0</color>
+
+</resources>
